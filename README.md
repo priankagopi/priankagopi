@@ -22,7 +22,7 @@ CS Grad @ University of Central Florida, Orlando, FL
 *   🖥️  See my portfolio at [Portfolio](http://priyankagopi.netlify.app/)
 *   ✉️  You can contact me at [priyankagopi015@gmail.com](mailto:priyankagopi015@gmail.com)
 *   🔭  Check my [LinkedIn](https://www.linkedin.com/in/priyankagopi/)
-*   🧠  I'm interested in Data Science and Machine Learning.
+*   🧠  I'm interested in Data Science and Machine Learning.
 *   🌱  I’m learning Snowflake.
 *   🤝  I'm open to collaborating on interesting data science and analytics projects
 
