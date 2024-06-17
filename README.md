@@ -24,7 +24,7 @@ CS Grad @ University of Central Florida, Orlando, FL
 *   🔭  Check my [LinkedIn](https://www.linkedin.com/in/priyankagopi/)
 *   🧠  I'm interested in Data Science and Machine Learning.
 *   🌱  I’m learning Snowflake.
-*   🤝  I'm open to collaborating on interesting data science and analytics projects
+*   🤝  I'm open to collaborating on interesting data science and analytics projects.
 
 
 ### Skills 
