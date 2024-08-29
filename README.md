@@ -23,7 +23,7 @@ CS Grad @ University of Central Florida, Orlando, FL
 *   ✉️  You can contact me at [priyankagopi015@gmail.com](mailto:priyankagopi015@gmail.com)
 *   🔭  Check my [LinkedIn](https://www.linkedin.com/in/priyankagopi/)
 *   🧠  I'm interested in Data Science and Machine Learning.
-*   🌱  I’m learning Snowflake.
+*   🌱  I’m learning Azure Databricks and MLFlow.
 *   🤝  I'm open to collaborating on interesting data science and analytics projects.
 
 
