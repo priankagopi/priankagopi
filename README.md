@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Grad @ University of Central Florida, Orlando, FL
 ----------------------------------------------------
 
-*   🌍  I'm based in Florida, United States
+*   🌍  I'm based in Melbourne, Florida, United States
 *   🖥️  See my portfolio at [Portfolio](http://priyankagopi.netlify.app/)
 *   ✉️  You can contact me at [priyankagopi015@gmail.com](mailto:priyankagopi015@gmail.com)
 *   🔭  Check my [LinkedIn](https://www.linkedin.com/in/priyankagopi/)
